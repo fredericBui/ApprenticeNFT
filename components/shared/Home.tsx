@@ -16,6 +16,7 @@ const Home = () => {
   return (
     <Wrapper>
       <Container span={16} offset={4}>
+        <h1>Hello World</h1>
         <Title>
           Learn the Web 3 stack{' '}
           <Brand>
